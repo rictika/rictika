@@ -27,4 +27,4 @@ Welcome to my GitHub! I'm passionate about turning messy data into meaningful in
 
 Thanks for stopping by! Let's build something data-driven and awesome together. 🚀
 
-[![Rictika's GitHub stats](https://github-readme-stats.vercel.app/api?username=rictika)](https://github.com/rictika/github-readme-stats)
+![Rictika's GitHub stats](https://github-readme-stats.vercel.app/api?username=rictika&show_icons=true&theme=radical)
